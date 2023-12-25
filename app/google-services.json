@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202859111183",
+    "project_id": "kursach-9ba8e",
+    "storage_bucket": "kursach-9ba8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202859111183:android:55b5e3a400cd4e08f8947a",
+        "android_client_info": {
+          "package_name": "com.example.kpu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyP2frvZks4N7buycKTZ5_CgFgvOP2-8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
