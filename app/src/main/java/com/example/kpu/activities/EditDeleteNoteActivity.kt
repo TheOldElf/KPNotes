@@ -32,7 +32,6 @@ class EditDeleteNoteActivity : AppCompatActivity() {
             }
 
             override fun onCancelled(error: DatabaseError) {
-                // Обработка ошибок, если необходимо
             }
         })
     }
